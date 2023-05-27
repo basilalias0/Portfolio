@@ -20,6 +20,11 @@ body{
 .card-title{
     text-align: center;
 }
+.test {
+  display: flex;
+   flex-direction: row;
+  
+}
 .card{
     position: relative;
     margin-top: 50px;
